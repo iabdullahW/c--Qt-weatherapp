@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/sky.jpg</file>
+        <file>images/sunset_icon.png</file>
+        <file>images/Broken_clouds.png</file>
+        <file>images/Clear_sky.png</file>
+        <file>images/Few_clouds.png</file>
+        <file>images/Scattered_clouds.png</file>
+        <file>images/Overcast_clouds.png</file>
+    </qresource>
+</RCC>
